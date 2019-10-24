@@ -1,0 +1,38 @@
+.column {
+  width: 30px;
+  height: 100px
+  float: right;
+}
+
+img {
+  float: center;
+  margin: 150px;
+
+}
+
+.my-class {
+  margin: 50px;
+  border: 5px solid green;
+  padding: 6px;
+  background-color: orange;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: Century Gothic;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
